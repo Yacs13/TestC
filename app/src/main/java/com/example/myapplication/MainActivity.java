@@ -15,9 +15,16 @@ public class MainActivity extends AppCompatActivity {
         String cadena33 = "Hola mundo";
 
         Integer contador3 = 10;
+        calcularSuma();
         Integer count = 0;
         contador3 += 2;
 
 
+    }
+
+
+    Integer calcularSuma(){
+        //funcion calcular suma
+        return 2;
     }
 }
