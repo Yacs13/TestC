@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     Integer calcularSuma(){
-        //funcion calcular suma
+        //funcion calcular sum
         return 2;
     }
 }
