@@ -12,12 +12,19 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-        String cadena = "Hola mundo";
+        String cadena33 = "Hola mundo";
 
-        Integer contador = 10;
+        Integer contador3 = 10;
+        Integer num = calcularSuma();
+        Integer count = 0;
+        contador3 += 2;
 
-        contador += 2;
 
-        
+    }
+
+
+    Integer calcularSuma(){
+        //funcion calcular sum
+        return 2;
     }
 }
