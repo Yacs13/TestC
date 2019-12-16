@@ -12,12 +12,12 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-        String cadena = "Hola mundo";
+        String cadena22 = "Hola mundo";
 
-        Integer contador = 10;
+        Integer contador2 = 10;
 
-        contador += 2;
+        contador2 += 2;
 
-        
+
     }
 }
